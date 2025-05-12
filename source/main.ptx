@@ -7,6 +7,14 @@
   <book xml:id="book">
     <title>MAT231 Week 1</title>
     <subtitle>An example to get you started</subtitle>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <pretext>
+     <article>
+        <title>Hello world!</title>
+        <p>Welcome to PreTeXt!</p>
+        <!-- TODO: find something more to say... -->
+     </article>
+   </pretext>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
